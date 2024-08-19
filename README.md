@@ -1,20 +1,17 @@
 
-# Youtube ABB OFFICIAL VLOG
+# Youtube BT Solution Hub
 
 Free code HTML CSS Javascript and Free learning web developer 
 
 
 
 
-## Image in project
-
-![Alt text](project.png "CALCULATOR DESIGN") 
 - [Detailed instructions on this project](https://www.youtube.com/@ABB_Official_Music)
 
 
 ## Follow me for more free codes
 
- - [Youtube ABB OFFICIAL VLOP](https://www.youtube.com/@ABB_Official_Music)
+ - [Youtube BT Solution Hub VLOP](https://www.youtube.com/@ABB_Official_Music)
  - [Facebook Bikram Bhandari](https://www.facebook.com/BikramBhandari01)
  - [Website Bikram Bhandari](https://bikramb.netlify.app/)
 
@@ -23,7 +20,7 @@ Free code HTML CSS Javascript and Free learning web developer
 
 This project is built and shared by
 
-- ABB OFFICIAL VLOG
+- BT Solution Hub
 
 
 ## Feedback
